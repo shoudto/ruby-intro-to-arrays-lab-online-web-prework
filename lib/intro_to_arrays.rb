@@ -17,5 +17,7 @@ end
 def last_element(my_last_element)
   my_last_element.last 
 end
+
+def first_element_with_array_methods
   
   
