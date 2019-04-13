@@ -6,8 +6,8 @@ def array_with_two_elements
   @my_two_array = Array.new(2)
 end 
 
-def first_element(array) 
-   array[1]
+def first_element(my_first_element) 
+   my_first_element[1]
 end 
   
   
