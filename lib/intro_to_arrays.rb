@@ -28,5 +28,5 @@ end
 
 def length_of_array(length)
   length.length
-  
+end 
   
